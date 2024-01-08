@@ -1,0 +1,19 @@
+{
+  "name": "rain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node sever.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.0.2"
+  }
+}
